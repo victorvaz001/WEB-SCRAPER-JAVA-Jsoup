@@ -1,8 +1,8 @@
 # WEB-SCRAPER-JAVA-Jsoup
 
-Para testar esté projeto, siga as instruções abaixo.
-Obs 1: tutorial feito na IDE-Eclipse
-Obs: Utilizei a importação direta pelo eclipse utilizando a url do projeto do GitHub
+Para testar esté projeto, siga as instruções abaixo.<br>
+Obs 1: tutorial feito na IDE-Eclipse<br>
+Obs: Utilizei a importação direta pelo eclipse utilizando a url do projeto do GitHub<br>
 
 1º Abra o eclipse<br>
 2º clicar File, import<br>
