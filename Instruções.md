@@ -4,8 +4,8 @@ Para testar esté projeto, siga as instruções abaixo.
 Obs 1: tutorial feito na IDE-Eclipse
 Obs: Utilizei a importação direta pelo eclipse utilizando a url do projeto do GitHub
 
-1º Abra o eclipse
-2º clicar File, import
+1º Abra o eclipse<br>
+2º clicar File, import<br>
 3º na barra de pesquisa, digite git
 4º clicar em (Projects from Git), dar next
 5º Clicar em Clorne URl, dar next
