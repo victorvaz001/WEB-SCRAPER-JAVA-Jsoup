@@ -1,4 +1,4 @@
-# WEB-SCRAPER-JAVA-Jsoup
+# Instruções de uso
 
 Para testar esté projeto, siga as instruções abaixo.<br>
 Obs 1: tutorial feito na IDE-Eclipse<br>
