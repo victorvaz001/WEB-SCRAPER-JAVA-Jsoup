@@ -1,7 +1,7 @@
 # WEB SCRAPER com java + Jsoup
 
 Esté projeto, visa buscar as informações de um protudo expecifico.<br>
-Foi utilizando o e-commerce https://www.kabum.com.br/
+Foi utilizado o e-commerce https://www.kabum.com.br/
 
 ## Requisitos
 
